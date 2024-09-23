@@ -4,7 +4,7 @@
 
 ```mermaid
 flowchart TD
-    A[jbncvugdbufvbh] --> B(djwebncdjhsdbncdn)
+    A(jbncvugdbufvbh) --> B[djwebncdjhsdbncdn]
     B --> C{hjghbhvgjv}
 
 
