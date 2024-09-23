@@ -1,8 +1,18 @@
 # Kung fu bot
 
-## par Samuel Desmeules-Voyer
+### *Par Samuel Desmeules-Voyer*
 
 *[URL du Document](samesthumain.github.io/)*
+
+## Concept
+[concept ici]
+
+### Objectif
+[objectif]
+
+### Motivations
+[motivations créatives derrière le choix des médias et des technologies]
+
 
 
 
