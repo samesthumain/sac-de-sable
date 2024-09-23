@@ -8,6 +8,7 @@ flowchart TD
     B --> C{le menu apparaît}
     C -->|Jouer| D[Le jeu commence]
     C -->|Quitter| E(Le jeu se ferme)
+    D --> F[Les consignes sont affichées au joueur]
 
 ```
 
