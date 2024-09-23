@@ -8,7 +8,7 @@ flowchart TD
     B --> C{le menu apparait}
     C --­­­­> D[Jouer]
     C --> E[Quitter]
-    E --> F{Fin}
+    E --> F(Fin)
 ```
 
 *documentation par Samuel Desmeules-Voyer*
