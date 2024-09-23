@@ -9,7 +9,6 @@ flowchart TD
     C --­­­­> D[Jouer]
     C --> E[Quitter]
     E --> G(Fin)
-    D
 ```
 
 *documentation par Samuel Desmeules-Voyer*
