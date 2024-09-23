@@ -3,8 +3,9 @@
 ## par Samuel Desmeules-Voyer
 
 ```mermaid
-A[jbncvugdbufvbh] --> B(djwebncdjhsdbncdn)
-B --> C{hjghbhvgjv}
+flowchart TD
+    A[jbncvugdbufvbh] --> B(djwebncdjhsdbncdn)
+    B --> C{hjghbhvgjv}
 
 
 ```
