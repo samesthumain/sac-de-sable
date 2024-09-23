@@ -26,4 +26,15 @@ flowchart TD
 
 ```
 
+## Ambiance
+
+## Technologies
+
+### Support
+
+### Matériel
+
+### Logiciel
+
+
 *documentation par Samuel Desmeules-Voyer*
