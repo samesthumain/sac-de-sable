@@ -4,9 +4,9 @@
 
 ```mermaid
 flowchart TD
-    A(L'utilisateur met le casque VR) --> B[Il voit le menu]
-    B --> C{hjghbhvgjv}
-
+    A(L'utilisateur entre dans la salle) --> B[il met le casque VR]
+    B --> C{le menu apparait}
+    C --­­>
 
 ```
 
