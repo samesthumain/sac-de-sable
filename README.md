@@ -1,10 +1,10 @@
-# Projet vr
+# Kung fu bot
 
 ## par Samuel Desmeules-Voyer
 
 ```mermaid
 flowchart TD
-    A(jbncvugdbufvbh) --> B[djwebncdjhsdbncdn]
+    A(L'utilisateur met le casque VR) --> B[Il voit le menu]
     B --> C{hjghbhvgjv}
 
 
