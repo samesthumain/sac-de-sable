@@ -27,6 +27,8 @@ flowchart TD
 ```
 
 ## Ambiance
+<img src="./images/moodboard.png" alt="sac de sable" width="500"/>
+
 
 ## Technologies
 
