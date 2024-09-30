@@ -41,7 +41,7 @@ flowchart TD
 Audio: Écouteurs bluetooth  
 Lumière: 
 - Lumières de scène
-- LEDs
+- LEDs bleus, blancs et rouges
 
 ### Matériel
 **Intéractif:**
@@ -51,10 +51,10 @@ Lumière:
 
 **Autre:**
 - Panneux et cylindre (imprimés en 3d)
-- Tableà
+- Table
 - Peinture
 - Gants de boxe
-- Vis et visseuse pour fixer le "sac de sable"
+- Vis et visseuse pour fixer le "sac de sable" à la table
 
 ### Logiciel
 - Arduino
