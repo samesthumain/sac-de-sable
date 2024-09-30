@@ -44,6 +44,7 @@ flowchart TD
 ### Support
 **Audio:**
 - Écouteurs bluetooth  
+
 **Lumière:**
 - Lumières de scène
 - LEDs bleus, blancs et rouges
