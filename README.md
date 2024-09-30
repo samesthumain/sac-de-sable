@@ -26,7 +26,7 @@ D -->|Il fait des erreurs| F[Il doit recommencer la partie de l'activité dans l
 F --> E
     C -->|IL appuie sur le bouton quitter à côté de l'installation| G(L'activitée peut être arrêtée en tout temps)
     G --> H[L'activitée est terminée]
-E --> G
+E --> H
 
 ```
 
