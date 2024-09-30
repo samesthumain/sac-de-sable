@@ -18,10 +18,11 @@ Mon but est de faire bouger les gens.
 
 ```mermaid
 flowchart TD
-    A(L'utilisateur entre dans la salle) --> B[Il met les gants de boxe, les écouteurs et se place devant l'installation]
-    B --> C{le menu apparaît}
-    C -->|Jouer| D[Le jeu commence]
-    C -->|Quitter| E(Le jeu se ferme)
+    A(L'utilisateur entre dans la salle) --> B[Il met les gants de boxe et les écouteurs et se place devant l'installation]
+    B --> C[Il commence l'activité en appuyant sur un des panneaux]
+    C --> D{Il frappe sur les panneaux en rythme avec la musique et les directives ressues par les écouteurs}
+    D -->|Il ne fait pas d'erreur| E[L'activitée continue normalement]
+    C -->|IL appuie sur le bouton "quitter" à côté de l'installation| E(Le jeu se ferme)
     D --> F[Les consignes sont affichées au joueur]
 
 ```
