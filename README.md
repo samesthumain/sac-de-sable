@@ -23,8 +23,10 @@ flowchart TD
     C --> D{Il frappe sur les panneaux en rythme avec la musique et les directives ressues par les écouteurs}
     D -->|Il ne fait pas d'erreur| E[L'activitée continue normalement]
 D -->|Il fait des erreurs| F[Il doit recommencer la partie de l'activité dans laquelle il a fait une erreur]
+F --> E
     C -->|IL appuie sur le bouton quitter à côté de l'installation| G(L'activitée peut être arrêtée en tout temps)
     G --> H[L'activitée est terminée]
+E --> G
 
 ```
 
