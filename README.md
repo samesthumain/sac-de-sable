@@ -56,6 +56,7 @@ Lumière:
 - Peinture
 - Gants de boxe
 - Vis et visseuse pour fixer le "sac de sable" à la table
+- Des ressorts pour le fonctionnement des panneaux
 
 ### Logiciel
 - Arduino
