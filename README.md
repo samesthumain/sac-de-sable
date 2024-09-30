@@ -33,7 +33,7 @@ flowchart TD
 ## Technologies
 
 ### Support
-Audio: Écouteurs
+Audio: Écouteurs  
 Lumière: 
 - Lumières de scène
 - LEDs
