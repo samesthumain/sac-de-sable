@@ -46,7 +46,7 @@ Lumière:
 ### Matériel
 **Intéractif:**
 - M5Stack Atom
-- Boutons
+- Boutons  
 <img src="./images/m5stack.jpg" alt="sac de sable" width="100"/> <img src="./images/bouton.jpg" alt="sac de sable" width="100"/>
 
 **Autre:**
