@@ -66,5 +66,6 @@ flowchart TD
 ### Logiciel
 - Arduino
 - Reaper
+- Max?
 
 *documentation par Samuel Desmeules-Voyer*
