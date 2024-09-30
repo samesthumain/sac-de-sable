@@ -8,7 +8,8 @@
 [concept ici]
 
 ### Objectif
-[objectif]
+L'objectif de l'oeuvre est de promouvoir le sport, l'esprit sportif, l'esprit de compétition.
+Mon but est de faire bouger les gens.
 
 ### Motivations
 [motivations créatives derrière le choix des médias et des technologies]
