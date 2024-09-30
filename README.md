@@ -7,7 +7,7 @@
 ## Concept
 Je veux que l'utilisateur s'immerse dans le rôle d'un boxeur qui s'entraine pour son premier vrai match.
 
-<img src="./images/sac_de_sable.png" alt="sac de sable" width="300"/>
+<img src="./images/sac_de_sable.png" alt="sac de sable" width="500"/>
 
 ### Objectif
 L'objectif de l'oeuvre est de promouvoir le sport, l'esprit sportif, l'esprit de compétition.
