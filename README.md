@@ -33,12 +33,18 @@ flowchart TD
 ## Technologies
 
 ### Support
-Audio: Écouteurs  
+Audio: Écouteurs bluetooth  
 Lumière: 
 - Lumières de scène
 - LEDs
 
 ### Matériel
+**Intéractif:**
+- M5Stack Atom
+- Boutons
+**Autre:**
+Panneux en plastique
+
 
 ### Logiciel
 Arduino
