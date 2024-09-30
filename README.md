@@ -20,7 +20,7 @@ Mon but est de faire bouger les gens.
 flowchart TD
     A(L'utilisateur entre dans la salle) --> B[Il met les gants de boxe et les écouteurs et se place devant l'installation]
     B --> C[Il commence l'activité en appuyant sur un des panneaux, les instructions sur comment l'activité marche seront transmises par les écouteurs]
-    C --> D[Il frappe sur les panneaux en rythme avec la musique et les directives ressues par les écouteurs]
+    C --> D[Il frappe sur les panneaux en rythme avec la musique et les directives ressues par les écouteurs, plus le temps passe, plus il faut réagir vite aux instructions]
     D -->|Il ne fait pas d'erreur| E[L'activitée continue normalement]
     D -->|Il fait des erreurs| F[Il doit recommencer la partie de l'activité dans laquelle il a fait une erreur]
     F --> E
