@@ -22,7 +22,7 @@ flowchart TD
     B --> C[Il commence l'activité en appuyant sur un des panneaux]
     C --> D{Il frappe sur les panneaux en rythme avec la musique et les directives ressues par les écouteurs}
     D -->|Il ne fait pas d'erreur| E[L'activitée continue normalement]
-    C -->|IL appuie sur le bouton "quitter" à côté de l'installation| E(Le jeu se ferme)
+    C -->|IL appuie sur le bouton quitter à côté de l'installation| E(Le jeu se ferme)
     D --> F[Les consignes sont affichées au joueur]
 
 ```
