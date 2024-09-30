@@ -28,7 +28,7 @@ flowchart TD
 
 ## Ambiance
 ### Visuelle
-<img src="./images/moodboard.png" alt="sac de sable" width="200"/>
+<img src="./images/moodboard.png" alt="sac de sable" width="500"/>
 
 ### Sonore
 
@@ -47,7 +47,7 @@ Lumière:
 **Intéractif:**
 - M5Stack Atom
 - Boutons
-<img src="./images/bouton.jpg" alt="sac de sable" width="500"/>
+<img src="./images/bouton.jpg" alt="sac de sable" width="200"/>
 <img src="./images/m5stack.jpg" alt="sac de sable" width="500"/>
 **Autre:**
 - Panneux et cylindre en plastique (imprimés en 3d)
