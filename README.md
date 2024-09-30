@@ -31,11 +31,13 @@ flowchart TD
 
 ## Technologies
 
+audio
+lumière
 ### Support
 
 ### Matériel
 
 ### Logiciel
-
+Arduino
 
 *documentation par Samuel Desmeules-Voyer*
