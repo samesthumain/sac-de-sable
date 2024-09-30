@@ -47,8 +47,7 @@ Lumière:
 **Intéractif:**
 - M5Stack Atom
 - Boutons
-<img src="./images/m5stack.jpg" alt="sac de sable" width="100"/>
-<img src="./images/bouton.jpg" alt="sac de sable" width="100"/>
+<img src="./images/m5stack.jpg" alt="sac de sable" width="100"/> <img src="./images/bouton.jpg" alt="sac de sable" width="100"/>
 
 **Autre:**
 - Panneux et cylindre (imprimés en 3d)
