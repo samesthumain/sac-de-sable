@@ -1,4 +1,4 @@
-# Kung fu bot
+# Sac de sable
 
 ### *Par Samuel Desmeules-Voyer*
 
@@ -18,7 +18,7 @@
 
 ```mermaid
 flowchart TD
-    A(L'utilisateur entre dans la salle) --> B[il met le casque VR]
+    A(L'utilisateur entre dans la salle) --> B[Il met les gants de boxe et les écouteurs]
     B --> C{le menu apparaît}
     C -->|Jouer| D[Le jeu commence]
     C -->|Quitter| E(Le jeu se ferme)
