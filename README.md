@@ -47,14 +47,18 @@ Lumière:
 **Intéractif:**
 - M5Stack Atom
 - Boutons
+- <img src="./images/m5stack.jpg" alt="sac de sable" width="100"/>
 <img src="./images/bouton.jpg" alt="sac de sable" width="100"/>
-<img src="./images/m5stack.jpg" alt="sac de sable" width="100"/>
+
 **Autre:**
-- Panneux et cylindre en plastique (imprimés en 3d)
-
-
+- Panneux et cylindre (imprimés en 3d)
+- Tableà
+- Peinture
+- Gants de boxe
+- Vis et visseuse pour fixer le "sac de sable"
 
 ### Logiciel
-Arduino
+- Arduino
+- Reaper
 
 *documentation par Samuel Desmeules-Voyer*
