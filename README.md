@@ -28,7 +28,7 @@ flowchart TD
 
 ## Ambiance
 ### Visuelle
-<img src="./images/moodboard.png" alt="sac de sable" width="500"/>
+<img src="./images/moodboard.png" alt="sac de sable" width="200"/>
 
 ### Sonore
 
