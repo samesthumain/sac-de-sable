@@ -18,7 +18,7 @@
 
 ```mermaid
 flowchart TD
-    A(L'utilisateur entre dans la salle) --> B[Il met les gants de boxe et les écouteurs]
+    A(L'utilisateur entre dans la salle) --> B[Il met les gants de boxe, les écouteurs et se place devant l'installation]
     B --> C{le menu apparaît}
     C -->|Jouer| D[Le jeu commence]
     C -->|Quitter| E(Le jeu se ferme)
