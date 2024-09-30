@@ -5,7 +5,7 @@
 *[URL du Document](https://samesthumain.github.io/#/)*
 
 ## Concept
-[concept ici]
+Je veux que l'utilisateur s'immerse dans le rôle d'un boxeur qui s'entraine pour son premier vrai match.
 
 ### Objectif
 L'objectif de l'oeuvre est de promouvoir le sport, l'esprit sportif, l'esprit de compétition.
