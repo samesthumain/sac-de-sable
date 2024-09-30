@@ -13,9 +13,6 @@ Je veux que l'utilisateur s'immerse dans le rôle d'un boxeur qui s'entraine pou
 L'objectif de l'oeuvre est de promouvoir le sport, l'esprit sportif, l'esprit de compétition.
 Mon but est de faire bouger les gens.
 
-### Motivations
-
-
 
 ## Scénario
 
