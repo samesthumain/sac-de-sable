@@ -2,7 +2,7 @@
 
 ### *Par Samuel Desmeules-Voyer*
 
-*[URL du Document]https://samesthumain.github.io/#/)*
+*[URL du Document](https://samesthumain.github.io/#/)*
 
 ## Concept
 [concept ici]
