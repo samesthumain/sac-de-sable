@@ -88,4 +88,8 @@ flowchart TD
 - 1 ordinateur
 - Des Poids du grand studio
 
+### Placement dans le studio
+
+<img src="./images/grand_studio.png" alt="sac de sable" width="500"/>  
+
 *documentation par Samuel Desmeules-Voyer*
