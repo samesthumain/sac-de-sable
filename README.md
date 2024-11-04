@@ -16,6 +16,9 @@ Mon but est de faire bouger les gens.
 
 ## Scénario
 
+**Scénarimage**  
+<img src="./images/scenarimage.png" alt="sac de sable" width="1000"/>
+
 ```mermaid
 flowchart TD
     A(L'utilisateur entre dans la salle) --> B[Il met les gants de boxe et les écouteurs et se place devant l'installation]
