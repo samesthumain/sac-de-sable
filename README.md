@@ -56,7 +56,7 @@ flowchart TD
 ### Matériel
 **Intéractif:**
 - [6 Machines Arduino](https://www.amazon.ca/-/fr/A000066-Arduino-UNO-R3/dp/B008GRTSV6)
-- [Senseur de force](https://www.adafruit.com/product/5475)
+- [5 Senseurs de force](https://www.adafruit.com/product/5475)
 
 **Autre:**
 - Gants de boxe et sac de sable.
