@@ -7,7 +7,7 @@
 ## Concept
 Je veux que l'utilisateur s'immerse dans le rôle d'un boxeur qui s'entraine pour son premier vrai match.
 
-<img src="./images/vue_devans.jpg" alt="sac de sable" width="500"/>
+<img src="./images/vue_devans.png" alt="sac de sable" width="500"/>
 
 ### Objectif
 L'objectif de l'oeuvre est de promouvoir le sport, l'esprit sportif, l'esprit de compétition.
@@ -43,7 +43,7 @@ flowchart TD
 
 ### branchement
 
-<img src="./images/vue_cote.jpg" alt="sac de sable" width="500"/>
+<img src="./images/vue_cote.png" alt="sac de sable" width="500"/>
 
 ### Support
 **Audio:**
