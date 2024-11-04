@@ -85,5 +85,6 @@ flowchart TD
 **Fournis par l'organisateur**
 - 2 Lumières de scène (Spotlight)
 - 1 ordinateur
+- Des Poids du grand studio
 
 *documentation par Samuel Desmeules-Voyer*
