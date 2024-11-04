@@ -76,6 +76,7 @@ flowchart TD
 - 7 Machines Arduino
 - 5 Senseurs de force
 - 5 LEDs uniques
+- 6 mètres de LEDs
 - 1 sac de sable
 - 1 paire de gants de boxe
 - 1 paire d'écouteurs bluetooth
@@ -83,6 +84,6 @@ flowchart TD
 
 **Fournis par l'organisateur**
 - 2 Lumières de scène (Spotlight)
-- 
+- 1 ordinateur
 
 *documentation par Samuel Desmeules-Voyer*
