@@ -59,7 +59,7 @@ flowchart TD
 - [5 Senseurs de force](https://www.adafruit.com/product/5475)
 
 **Autre:**
-- Gants de boxe et sac de sable.
+- [Gants de boxe et sac de sable.](https://www.amazon.ca/AILIXI-Punching-Unfilled-Kickboxing-Taekwondo/dp/B0BR6K49KH/ref=sr_1_3_sspa?dib=eyJ2IjoiMSJ9.pgRCYLaZT0AcMbh7P1UxqK4erqWFEOJ1OlAhQJB74t_pxtB4hl4iWgRpYFIdYZcR39pzb4YwLsbCMnfZGhHz-aiYI4UEoUcCk6bRuLpDS6e4lXz-Hr5fMGSRGrNnelHknAfRFl-M638f6eBSamEuzfDtk6DR4k8BA0ctGOr4J9lmS7jexpJz_1KC3IhjAyzus9RjHhFvoLZ27zSU4nFMt4XEbc22svTHOneGPykXF1Fl-dEsk0qYljgTyILiHPkPJ8UVY0M26cgHMzqF46iuSWQLMsbuOqABJZ8qB7UNS7c.gvwrEfDvOzRuSso47xBG7QDPCHQu1TAnw51mJiMBly4&dib_tag=se&keywords=punching+bag&qid=1730660492&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 - Chaîne de métal pour fixer le sac.
 - Peinture.
 - Des poids pour forcer le sac de sable à rester droit.
