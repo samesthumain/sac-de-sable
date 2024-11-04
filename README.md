@@ -17,7 +17,7 @@ Mon but est de faire bouger les gens.
 ## Scénario
 
 **Scénarimage**  
-<img src="./images/scenarimage.png" alt="sac de sable" width="1000"/>
+<img src="./images/scenarimage.PNG" alt="sac de sable" width="1000"/>
 
 ```mermaid
 flowchart TD
