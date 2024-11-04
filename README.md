@@ -57,15 +57,12 @@ flowchart TD
 **Intéractif:**
 - [6 Machines Arduino](https://www.amazon.ca/-/fr/A000066-Arduino-UNO-R3/dp/B008GRTSV6)
 -   
-<img src="./images/m5stack.jpg" alt="sac de sable" width="100"/> <img src="./images/bouton.jpg" alt="sac de sable" width="100"/>
 
 **Autre:**
-- Panneux et cylindre (imprimés en 3d)
-- Table
-- Peinture
-- Gants de boxe
-- Vis et visseuse pour fixer le "sac de sable" à la table
-- Des ressorts pour le fonctionnement des panneaux
+- Gants de boxe et sac de sable.
+- Chaîne de métal pour fixer le sac.
+- Peinture.
+- Des poids pour forcer le sac de sable à rester droit.
 
 ### Logiciel
 - Arduino
