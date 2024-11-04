@@ -46,13 +46,13 @@ flowchart TD
 - Écouteurs bluetooth  
 
 **Lumière:**
-- Lumières de scène
+- 2 Lumières de scène (Spotlight)
 - LEDs bleus, blancs et rouges
 
 ### Matériel
 **Intéractif:**
-- M5Stack Atom
-- Boutons  
+- [6 Machines Arduino](https://www.amazon.ca/-/fr/A000066-Arduino-UNO-R3/dp/B008GRTSV6)
+-   
 <img src="./images/m5stack.jpg" alt="sac de sable" width="100"/> <img src="./images/bouton.jpg" alt="sac de sable" width="100"/>
 
 **Autre:**
